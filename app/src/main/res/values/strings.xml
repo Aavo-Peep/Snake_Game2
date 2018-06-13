@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Snake_Game</string>'
+    <string name="password">Salasõna</string>
+    <string name="email">Email Address</string>
+    <string name="login">Login</string>
+    <string name="unustatud">Unustasid Parooli/Emaili?</string>
+    <string name="registreerimine">Registreeri</string>
+    <string name="katsed">Katsed</string>
+    <string name="lähtesta">Lähtesta</string>
+    <string name="eesnimi">Eesnimi</string>
+    <string name="perenimi">Perenimi</string>
+    <string name="loginv">Login välja</string>
+    <string name="kasutaja">Kasutaja</string>
+    <string name="andmebaas">Andmebaas</string>
+    <string name="pilt">Lisa pilt</string>
+</resources>

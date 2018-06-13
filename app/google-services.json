@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "696293794818",
+    "firebase_url": "https://login-efbe2.firebaseio.com",
+    "project_id": "login-efbe2",
+    "storage_bucket": "login-efbe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696293794818:android:5a95b64dd3689577",
+        "android_client_info": {
+          "package_name": "com.example.opilane.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696293794818-sv1d7udi9tl8rklchakt8f5sdfhb1mp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opilane.login",
+            "certificate_hash": "b98f474d4b2195f3060ef4652a4b644d958dcb94"
+          }
+        },
+        {
+          "client_id": "696293794818-j1pbq648qiidqj29mvah7e7rdvtl80e5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "696293794818-j1pbq648qiidqj29mvah7e7rdvtl80e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf51zdLn1tLPvSA9to3f9EaYsoBsU-b6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696293794818-j1pbq648qiidqj29mvah7e7rdvtl80e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696293794818:android:0f62ad522d0f49bb",
+        "android_client_info": {
+          "package_name": "com.example.opilane.snake_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696293794818-tab7dslsh63ta1r9dot39sbln06brlrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opilane.snake_game",
+            "certificate_hash": "b98f474d4b2195f3060ef4652a4b644d958dcb94"
+          }
+        },
+        {
+          "client_id": "696293794818-j1pbq648qiidqj29mvah7e7rdvtl80e5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "696293794818-j1pbq648qiidqj29mvah7e7rdvtl80e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf51zdLn1tLPvSA9to3f9EaYsoBsU-b6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696293794818-j1pbq648qiidqj29mvah7e7rdvtl80e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

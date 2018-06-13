@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.opilane.snake_game.LoginActivity"
+    android:orientation="vertical"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_marginBottom="49dp"
+        android:drawable="@drawable/snakegame"
+        android:id="@+id/ImageView"
+        android:src="@drawable/snakegame"/>
+
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:textColorHint="@color/colorBlue"
+        android:hint="@string/email"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:textColorHint="@color/colorBlue"
+        android:hint="@string/password"/>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        style="?android:attr/borderlessButtonStyle"/>
+
+    <TextView
+        android:id="@+id/katsed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/katsed"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:textAppearanceSmall"/>
+
+    <TextView
+        android:id="@+id/unustatud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/unustatud"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:textAppearanceMedium"/>
+
+
+        <TextView
+            android:id="@+id/registreerimine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/registreerimine"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:textAppearanceMedium"/>
+    
+
+
+    </LinearLayout>
